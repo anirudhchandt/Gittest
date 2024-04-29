@@ -8,7 +8,7 @@ public class Testdata {
 	public static void main(String[] args) {
 		
 		WebDriver driver=new FirefoxDriver();
-		driver.get("https://www.amazon.com");
+		driver.get("https:www.flipkart.com");
 	}
 
 }
